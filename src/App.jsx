@@ -4,9 +4,7 @@ import './App.css'
 function App() {
 
   return (
-    <>
-      bye
-    </>
+    <h1>Hello, World!</h1>
   )
 }
 
