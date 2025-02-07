@@ -4,9 +4,7 @@ import './App.css'
 function App() {
 
   return (
-    <>
-      bye
-    </>
+    <h1>React 18 App</h1>
   )
 }
 
